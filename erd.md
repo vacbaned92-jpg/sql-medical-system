@@ -104,7 +104,7 @@ erDiagram
         BOOLEAN is_read
         TIMESTAMP sent_at
     }
-    
+```
 ## Описание связей:
 
        СВЯЗЬ                        ТИП СВЯЗИ         Описание
